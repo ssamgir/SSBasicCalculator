@@ -2,7 +2,7 @@
 [![Programming Language](https://img.shields.io/badge/language-objective--c-ff69b4.svg)]()
 [![Scrutinizer Build](https://img.shields.io/scrutinizer/build/g/filp/whoops.svg?maxAge=2592000)]()
 
-Simple iOS Application which will perform basic calculation operations
+:clipboard:Simple iOS Application which will perform basic calculation operations :clipboard:
 
 # Contents
 
