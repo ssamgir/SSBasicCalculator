@@ -15,6 +15,14 @@
 
 ## Prerequisites
 
+## Print Screens
+
+![1](https://github.com/ssamgir/SSBasicCalculator/blob/master/Resources/Simulator%20Screen%20Shot%2013-Aug-2016%2C%202.44.52%20PM.png)
+![1](https://github.com/ssamgir/SSBasicCalculator/blob/master/Resources/Simulator%20Screen%20Shot%2013-Aug-2016%2C%202.44.44%20PM.png)
+
+
+
+
 ## Demo
 
 ![DEMO]( https://github.com/ssamgir/SSBasicCalculator/blob/master/Resources/ezgif-3185423665.gif)
