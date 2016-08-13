@@ -15,6 +15,10 @@
 
 ## Prerequisites
 
+## Demo
+
+![DEMO]( https://github.com/ssamgir/SSBasicCalculator/blob/master/Resources/ezgif-3185423665.gif)
+
 
 ## Requirements
 * iOS 9.0+
